@@ -7,7 +7,7 @@ Data is gathered from Statistics Canada's [Table 98-10-0480-01](https://www150.s
 ## Code
 
 ## Results
-I plot the shares for 
+I plot the shares for three modal types: (i) car, truck, or van, (ii) public transit, and (iii) active transportation.
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
 
