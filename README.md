@@ -5,9 +5,10 @@ This project visualizes commuter modal shares by census tract in the Montreal Ce
 Data is gathered from Statistics Canada's [Table 98-10-0480-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810048001). The Census boundary lines - that is, data outlining the boundaries of each census tract - are made available by [Statistics Canada](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21).
 
 ## Code
+Python code is written in a Jupyer notebook. It ___.
 
 ## Results
-I plot the shares for three modal types: (i) car, truck, or van, (ii) public transit, and (iii) active transportation.
+I plot the shares for three modal types: (i) car, truck, or van, (ii) public transit, and (iii) active transportation. Census tracts without population are greyed out. As expected, suburban regions of the CMA ____. Use of public transit is highly correlated with distance to the metro. Census tracts with a high active transportation modal share are concentrated in the Plateau Mont-Royal borough.
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
 
