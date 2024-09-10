@@ -9,4 +9,8 @@ Data is gathered from Statistics Canada's [Table 98-10-0480-01](https://www150.s
 ## Results
 I plot the shares for 
 
-<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active transportation_map.jpg" width="900" height="500">
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
+
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Public Transit.jpg">
+
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active transportation_map.jpg">
