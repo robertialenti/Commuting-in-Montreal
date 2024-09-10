@@ -11,6 +11,6 @@ I plot the shares for
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
 
-<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Public Transit.jpg">
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Public Transit_map.jpg">
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active transportation_map.jpg">
