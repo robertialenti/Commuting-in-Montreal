@@ -14,8 +14,8 @@ I plot the shares for three modal types: (i) car, truck, or van, (ii) public tra
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
 
-<iframe src="https://robertialenti.github.io/Canadian-Place-Name-Etymology/figures/Car,%20truck%20or%20van_map.html" height="500" width="500"></iframe>
-
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Public transit_map.jpg">
 
 <img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active transportation_map.jpg">
+
+You can view interactive maps showing modal shares for [car, truck, or vans](), [public transit](), and [active transportation]().
