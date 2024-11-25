@@ -12,10 +12,10 @@ Once the data is processed, I begin preparing it for spatial analysis. I reproje
 ## Results
 I plot the shares for three modal types: (i) car, truck, or van, (ii) public transit, and (iii) active transportation. As expected, people located in suburban regions of the Montreal CMA, where alternative transportation options may be limited, predominantly commute with a personal vehicle. Use of public transit is highly correlated with distance to the metro. For instance, it is clear to see a higher public transit modal share in corridors along the Green and Orange lines of Montreal's metro. Census tracts with a high active transportation modal share are concentrated in the relatively central Plateau Mont-Royal borough, where bicycle infrastructure is the most comprehensive.
 
-<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Car, truck or van_map.jpg">
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/car_truck_van_map.jpg">
 
-<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Public transit_map.jpg">
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/public_transit_map.jpg">
 
-<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active transportation_map.jpg">
+<img src="https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/active_transportation_map.jpg">
 
-You can view interactive maps showing modal shares for [car, truck, or vans]("https://github.com/robertialenti/Commuting-in-Montreal/raw/main/figures/Active_transportation_map.html"), [public transit](), and [active transportation]() using the appropriate links.
+You can view interactive maps showing modal shares for [car, truck, or vans](https://robertialenti.github.io/Commuting-in-Montreal/figures/active_transportation_map.html), [public transit](https://robertialenti.github.io/Commuting-in-Montreal/figures/piblic_transit_map.html) or [active transportation](https://robertialenti.github.io/Commuting-in-Montreal/figures/active_transportation_map.html) using the appropriate link.
